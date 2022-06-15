@@ -9,8 +9,7 @@ Site criado com o intuito de verificar quantos dias faltam para o natal e ano no
 [English](#English-version).
 
 ## Programa rodando // Program running
-[Clique aqui](#GeneratorRunning) <br>
-[Click here](#GeneratorRunning)
+[Clique aqui / Click here](#ProgramRunning) <br>
 
 <a id="Ptbr-version"></a>
 ## Versão Português
@@ -27,28 +26,19 @@ O contador mostra quantos dias, horas, minutos e segundos faltam para o Natal e 
 Foram utilizadas quatro telas, simples e intuitiva, sendo elas:
 
 ### 1. Tela inicial.
-
 Nessa tela podemos ver o inicío do programa onde há três opções.
 
 ### 2. Primeira opção, aniversário.
-
 Essa opção te possibilita verificar quantos dias, horas, minutos e segundos faltam para o dia 05-04-2023, meu próximo aniversário.
 
 ### 3. Segunda opção, natal.
-
 Essa opção te possibilita verificar quantos dias, horas, minutos e segundos faltam para o natal de 2022.
 
 ### 4. Terceira opção, ano novo.
-
 Essa opção te possibilita verificar quantos dias, horas, minutos e segundos faltam para o ano novo de 2022.
 
 ### 5. Botão de menu
-
 No inferior das telas de aniversário, natal e ano novo, contém um botão com o símbolo de uma casa, ao clicar você retorna para a página inicial.
-
-## 🚀 Prováveis futuras atualizações - Versão 2.0
-- [ ] Implementar a função do contador adicionar um ano a data assim que o contador chegar ao fim.
-- [ ] Dar a opção do usuário inserir o seu aniversário na aba de aniversário.
 
 ## ✔️ Concluido - Versão 1.0
 - [x] Implementar a tela inicial.
@@ -56,19 +46,18 @@ No inferior das telas de aniversário, natal e ano novo, contém um botão com o
 - [x] Implementar a tela de natal.
 - [x] Implementar a tela de ano novo.
 
-## 💻 Instalando
+## 🚀 Prováveis futuras atualizações - Versão 2.0
+- [ ] Implementar a função do contador adicionar um ano a data assim que o contador chegar ao fim.
+- [ ] Dar a opção do usuário inserir o seu aniversário na aba de aniversário.
 
+## 💻 Instalando
 1 - Baixe o repositório em sua máquina.<br>
 2 - Mova os arquivos para uma pasta.<br>
 3 - Abra o arquivo "index.html".<br>
 4 - Faça proveito do contador!<br>
 
 ## ⚙️ Funcionamento
-
 Após você seguir o passo a passo da instalação você verá a tela inicial do contador, você pode escolher qual o contador que deseja visualizar, seja o de natal, ano novo ou mesmo o do meu aniversário, assim que você clicar na opção será redirecionado a tela do contador desejado, após você visualizar quanto tempo falta, basta apenas clicar na opção de menu em baixo da página, você será redirecionado para o menu inicial.
-
-<a id="GeneratorRunning"></a>
-https://user-images.githubusercontent.com/88095898/173476010-27379b20-6e72-4e4d-a581-6fff0779b7c5.mp4
 
 <a id="English-version"></a>
 
@@ -81,34 +70,24 @@ https://user-images.githubusercontent.com/88095898/173476010-27379b20-6e72-4e4d-
 This project have the objetive of demonstrate my current knowledge about Javascript (HTML and CSS too).
 
 ## 🎯 Functions
-
 The countdown shows how many days, hours, minutes and seconds left to christmas and new year. How?
 
 I used four screens, simple and intuitive.
 
 ### 1. Home screen.
-
 This screen shows the start with three options.
 
 ### 2. First option, my birthday.
-
 This option shows how many days, hours, minutes and seconds left to 04-05-2023, my next birthday.
 
 ### 3. Second option, christmas.
-
 This option shows how many days, hours, minutes and seconds left to christmas.
 
 ### 4. Third option, new year.
-
 This option shows how many days, hours, minutes and seconds left to new year.
 
 ### 5. Menu button.
-
 In bottom of the three options screens has a button with a house symbol, after you click you return to home page.
-
-## 🚀 Possible future updates - Version 2.0.
-- [ ] Implement a function that countdown adds one year when countdown is over.
-- [ ] Give for user the option to insert him birthday date.
 
 ## ✔️ Concluded - Versão 1.0.
 - [x] Implement initial screen.
@@ -116,16 +95,18 @@ In bottom of the three options screens has a button with a house symbol, after y
 - [x] Implement christmas screen.
 - [x] Implement new year screen.
 
-## 💻 Installing.
+## 🚀 Possible future updates - Version 2.0.
+- [ ] Implement a function that countdown adds one year when countdown is over.
+- [ ] Give for user the option to insert him birthday date.
 
+## 💻 Installing.
 1 - Download the repository in your machine. <br>
 2 - Move the files to an folder. <br>
 3 - Open the "index.html" file. <br>
 4 - Enjoy!
 
 ## ⚙️ Running.
-
 After you follow instalation steps you will see the initial screen, you can choose the countdown that you want, my birthday, christmas and new year. After you click you will be redirecioned to countdown screen, after you view how many time lefts, just need click in the bottom option to return to main page.
 
-<a id="GeneratorRunning"></a>
-https://user-images.githubusercontent.com/88095898/173476010-27379b20-6e72-4e4d-a581-6fff0779b7c5.mp4
+<a id="ProgramRunning"></a>
+![20220613_224613](https://user-images.githubusercontent.com/88095898/173762895-41f8a274-0889-4353-9520-28dbb27b0afd.gif)
